@@ -17,5 +17,5 @@
 
 #submit:hover {
     background: #209cee;
-    transition: background .5s
+    transition: background-color .5s ease;
 }
